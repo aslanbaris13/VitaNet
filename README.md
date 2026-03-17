@@ -104,7 +104,7 @@ Layer 3 — Logistics & Stock Integration
 
 ## Team
 
-| Name | Background |
+| Name | 
 |---|---|
 | **Barış Aslan** | 
 | Ahmet Şamil Akgün | 
