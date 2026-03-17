@@ -104,12 +104,10 @@ Layer 3 — Logistics & Stock Integration
 
 ## Team
 
-| Name | 
-|---|---|
-| **Barış Aslan** | 
-| Ahmet Şamil Akgün | 
-| Belemir Tonyalı |
-| Rüveyda Özsoy |
+- **Barış Aslan**
+- Ahmet Şamil Akgün
+- Belemir Tonyalı
+- Rüveyda Özsoy
 
 ---
 
