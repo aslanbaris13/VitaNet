@@ -106,10 +106,10 @@ Layer 3 — Logistics & Stock Integration
 
 | Name | Background |
 |---|---|
-| **Barış Aslan** | Computer Engineering, AI |
-| Ahmet Şamil Akgün | — |
-| Belemir Tonyalı | — |
-| Rüveyda Özsoy | — |
+| **Barış Aslan** | 
+| Ahmet Şamil Akgün | 
+| Belemir Tonyalı |
+| Rüveyda Özsoy |
 
 ---
 
